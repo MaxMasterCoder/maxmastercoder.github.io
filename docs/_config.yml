@@ -28,7 +28,7 @@ url: "https://maxmastercoder.github.io" # the base hostname & protocol for your 
 github_username:  MaxMasterCoder
 
 # Build settings
-theme: midnight
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
