@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Hello. I am Max Rodríguez Güell. You probably found this tiny corner of the internet through my  
+mods on modrinth or curseforge. I started programming when I was 9 years old and have been obssesed with it ever since.  
+In that time I have learned how to code in both Python and Java.  
+  
+I now code minecraft mods. I try to support both Forge and Fabric but really, Fabric is just superior (in my opinion). Thanks  
+for reading for this long and please enjoy my mods.  
+  
+Thanks,  
+Max  
+  
