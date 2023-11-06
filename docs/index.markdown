@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+[Logo](/assets/maxmastercoder.png)
