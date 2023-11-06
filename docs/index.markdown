@@ -5,4 +5,6 @@
 layout: home
 ---
 
-![Logo](/assets/maxmastercoder.png)
+<center><h1>MaxMasterCoder</h1></center>
+<center><a href="/mods/"><img src="/images/MaxMasterCoder.png" width=230 height = 230></a></center>
+<center><h1>Visit my <a href="/mods/">Mods</a></h1></center>
