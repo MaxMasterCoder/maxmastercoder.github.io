@@ -5,4 +5,4 @@
 layout: home
 ---
 
-[Logo](/assets/maxmastercoder.png)
+![Logo](/assets/maxmastercoder.png)
