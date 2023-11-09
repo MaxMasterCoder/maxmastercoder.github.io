@@ -70,13 +70,13 @@ permalink: /mods/
 
 <img src="/images/modrinth_tiny.png">
 <label class="switch">
-  <input type="checkbox" id="toggle" onclick="myFunction()">
+  <input type="checkbox" id="toggle" onclick="ToggleSwitch()">
   <span class="slider round"></span>
 </label>
 <img src="/images/curseforge_tiny.png">
 
 <script>
-function myFunction() {
+function ToggleSwitch() {
   var checkBox = document.getElementById("toggle");
   var cloakingfeatured = document.getElementById("cloakingfeatured");
   var cloakingversions = document.getElementById("cloakingversions");
