@@ -78,10 +78,6 @@ permalink: /mods/
 <script>
 function ToggleSwitch() {
   var checkBox = document.getElementById("toggle");
-  var cloakingfeatured = document.getElementById("cloakingfeatured");
-  var cloakingversions = document.getElementById("cloakingversions");
-  var fps_essentialsfeatured = document.getElementById("fps_essentialsfeatured");
-  var fps_essentialversions = document.getElementById("fps_essentialversions");
   if (checkBox.checked == true){
     cloakinglink.href = "https://www.curseforge.com/minecraft/mc-mods/cloaking";
     cloakingfeatured.href = "https://www.curseforge.com/minecraft/mc-mods/cloaking/files/4816672";
