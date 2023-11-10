@@ -14,22 +14,3 @@ Thanks for reading for this and please enjoy my mods.
 Cheers,  
 
 Max
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<h3><b>Credit</b></h3>
-<p>
-Serilum.com for modrinth/curseforge slider in <a href="/mods/">/mods/</a>
-</p>
