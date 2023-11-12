@@ -15,8 +15,8 @@ layout: home
 <br>
 <center><h1><p id="totaldownloads">Loading Downloads...</p></h1><center>
 
-<a href="https://modrinth.com/user/MaxMasterCoder"><img src="/images/modrinth_tiny.png"></a>
-<a href="https://legacy.curseforge.com/members/maxmastercoder/projects"><img src="/images/curseforge_tiny.png"></a>
+<a href="https://modrinth.com/user/MaxMasterCoder" target="_blank"><img src="/images/modrinth_tiny.png"></a>
+<a href="https://legacy.curseforge.com/members/maxmastercoder/projects" target="_blank"><img src="/images/curseforge_tiny.png"></a>
 
 <script>
     function ModrinthUserDownloads(id) {
