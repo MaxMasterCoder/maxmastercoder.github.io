@@ -21,7 +21,7 @@ layout: home
 <script>
     function ModrinthUserDownloads(id) {
         var Modrinthrequest = new XMLHttpRequest();
-        Modrinthrequest.open("GET", "http://api.modrinth.com/v2/user/"+id+"/projects", false);
+        Modrinthrequest.open("GET", "https://api.modrinth.com/v2/user/"+id+"/projects", false);
         Modrinthrequest.send(null);
         var downloads = 0;
         var user = JSON.parse(Modrinthrequest.responseText);
